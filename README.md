@@ -2,6 +2,10 @@
   <img alt="discord_bot.py" src="https://i.alexflipnote.dev/MiFAeTE.png" width="750px">
 </p>
 
+I don't own the original one https://github.com/AlexFlipnote/discord_bot.py https://github.com/AlexFlipnote
+
+Just using his repository for my own purposes (practice coding)
+
 Do you need more help? Visit my server here: **https://discord.gg/AlexFlipnote** 🍺
 
 ## Requirements
